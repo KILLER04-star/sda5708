@@ -1,5 +1,5 @@
 # sda5708
-This is an Arduino library for the Siemens SDA5708-display.
+This is an Arduino library for the Siemens SDA5708 and Siemens SDA5807 Display.
 I had a hard time finding a good library and after a while I came across this. Since it didn't offer some of the features I needed, I decided to take matters in my own hands and added the ability to set the cursor and the function to clear the display.
 
 
